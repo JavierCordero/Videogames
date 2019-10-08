@@ -1,0 +1,32 @@
+Primero:
+	-Disenyo (La segunda practica falta)
+	-FP (Imagenes de los juegos de consola)
+	-MAP (Scrum)
+	-MOT (Letras caen)
+Segundo:
+	-DSI(winprog)
+	-IG1(Ejemplos capturas)
+	-GameJam(Imagenes)
+Tercero:
+	-IG2 (Ejemplos con ogre y glsl)
+	-IA (todas las practicas)
+	-P3 (Pues el juego jeje (capturas de codigo))
+	-SIM (ejemplos de los ejercicios)
+	-Animacion (videos de las animaciones)
+	-GIW (uso de todo lo que se uso y tal)
+	-Redes(wireshark y todo eso)
+	-IW(Ejemplos y capturas de la pagina web)
+	-GameJam
+Cuarto:
+	-AA
+	-Negocio Digital
+	-SON
+	-USabilidad
+	-VC
+	-Moviles
+	-TFG
+	-Ciber
+	-EIRV
+
+
+-Menu Principal, no dividido en 3
