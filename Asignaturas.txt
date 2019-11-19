@@ -1,8 +1,6 @@
 Primero:
-	-Disenyo (La segunda practica falta)
 	-FP (Imagenes de los juegos de consola)
 	-MAP (Scrum)
-	-MOT (Letras caen)
 Segundo:
 	-DSI(winprog)
 	-IG1(Ejemplos capturas)
