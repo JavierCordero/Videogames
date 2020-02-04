@@ -16,15 +16,15 @@ Tercero:
 	-IW(Ejemplos y capturas de la pagina web)
 	-GameJam
 Cuarto:
-	-AA
-	-Negocio Digital
-	-SON
-	-USabilidad
-	-VC
-	-Moviles
-	-TFG
-	-Ciber
-	-EIRV
+	-AA - poner los trabajos hechos
+	-Negocio Digital - Proyecto de marketing
+	-SON - Proyecto de vr de sonido y fmod en cosas que se
+	-USabilidad - proyecto?
+	-VC - proyectos de ps4 con capturas
+	-Moviles - El juego del pato, los juegos de moviles
+	-TFG - xd
+	-Ciber - poner en whoami que se hacer cositas jj
+	-EIRV - Proyectos de VR, AR
 
 
 -Menu Principal, no dividido en 3
