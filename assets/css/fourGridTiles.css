@@ -19,7 +19,7 @@
 			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			position: relative;
-			transform: scale(0.9, 0.9);
+			transform: scale(0.8, 0.8);
 			width: calc(25% - 2.5em);
 			margin: 2.5em 0 0 2.5em;
 		}
@@ -128,8 +128,13 @@
 				}
 
 				.fourGridTiles article > a h2 {
-					margin: 0;
-					transform: scale(1.8, 1.8);
+					transform: scale(1.2, 1.2);
+					margin: 20em 0 0 0;
+					color:black;
+				}
+
+				.fourGridTiles article > a > div p{
+					color:black;
 				}
 
 				.fourGridTiles article > a .content {
