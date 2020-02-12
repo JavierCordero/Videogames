@@ -128,13 +128,14 @@
 				}
 
 				.fourGridTiles article > a h2 {
-					transform: scale(1.2, 1.2);
-					margin: 140% 0 0 0;
-					color:black;
+					transform: scale(2, 2);
+					margin: 0% 0 0 0;
+					color:red;
 				}
 
 				.fourGridTiles article > a > div p{
-					color:black;
+					transform: scale(1.2, 1.2);
+					color:red;
 				}
 
 				.fourGridTiles article > a .content {

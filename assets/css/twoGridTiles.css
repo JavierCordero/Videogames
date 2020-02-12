@@ -130,11 +130,11 @@
 				.twoGridTiles article > a h2 {
 					transform: scale(1.2, 1.2);
 					margin: 140% 0 0 0;
-					color:black;
+					color:red;
 				}
 
 				.twoGridTiles article > a > div p{
-					color:black;
+					color:red;
 				}
 
 				.twoGridTiles article > a .content {
