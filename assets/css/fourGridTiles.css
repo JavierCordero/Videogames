@@ -118,7 +118,6 @@
 				text-decoration: none;
 				z-index: 3;
 			}
-
 				.fourGridTiles article > a > :last-child {
 					margin: 0;
 				}
@@ -130,12 +129,12 @@
 				.fourGridTiles article > a h2 {
 					transform: scale(2, 2);
 					margin: 0% 0 0 0;
-					color:red;
+					color:white;
 				}
 
 				.fourGridTiles article > a > div p{
 					transform: scale(1.2, 1.2);
-					color:red;
+					color:white;
 				}
 
 				.fourGridTiles article > a .content {

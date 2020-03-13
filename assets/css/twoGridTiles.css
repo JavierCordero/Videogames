@@ -21,7 +21,7 @@
 			position: relative;
 			transform: scale(0.7, 0.7);
 			width: calc(25% - 2.5em);
-			margin: 2.5em 0 0 1em;
+			margin: 2.5em 0 0 10em;
 		}
 			.twoGridTiles article > .image {
 				-moz-transition: -moz-transform 0.5s ease;
@@ -130,11 +130,11 @@
 				.twoGridTiles article > a h2 {
 					transform: scale(1.2, 1.2);
 					margin: 140% 0 0 0;
-					color:red;
+					color:white;
 				}
 
 				.twoGridTiles article > a > div p{
-					color:red;
+					color:white;
 				}
 
 				.twoGridTiles article > a .content {

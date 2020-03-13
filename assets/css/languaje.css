@@ -1,5 +1,5 @@
 			.languagepicker {
-				background-color: #FFF;
+				background-color:black;
 				display: inline-block;
 				padding: 20;
 				height: 40px;
@@ -12,6 +12,7 @@
 
 			.languagepicker:hover {
 				height: 81px;
+				background-color: black;
 			}
 
 			.languagepicker a{
@@ -27,12 +28,12 @@
 			}
 
 			.languagepicker li:hover{
-				background-color: #EEE;
+				background-color: black;
 			}
 
 			.languagepicker a:first-child li {
 				border: none;
-				background: #FFF !important;
+				background: black !important;
 			}
 
 			.languagepicker li img {
