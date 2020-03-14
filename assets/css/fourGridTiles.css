@@ -127,8 +127,10 @@
 				}
 
 				.fourGridTiles article > a h2 {
-					transform: scale(2, 2);
+					transform: scale(1, 1);
 					margin: 0% 0 0 0;
+					position: absolute;
+					top: 110%;
 					color:white;
 				}
 
