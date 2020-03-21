@@ -7,6 +7,7 @@ document.write(
 	"<li><a href='xrEN.html'>XR Games</a></li>",
 	"<li><a href='mobilesEN.html'>Mobile Games</a></li>",
 	"<li><a href='ps4EN.html'>PS4 Games</a></li>",
+	"<li><a href='destacadosEN.html'>Highlight games</a></li>",
 	"</ul>",
 	"</nav>"
 );
