@@ -1,5 +1,5 @@
 			.languagepicker {
-				background-color:black;
+				background-color:whitesmoke;
 				display: inline-block;
 				padding: 20;
 				height: 40px;
@@ -12,11 +12,11 @@
 
 			.languagepicker:hover {
 				height: 81px;
-				background-color: black;
+				background-color: whitesmoke;
 			}
 
 			.languagepicker a{
-				color: #000;
+				color: whitesmoke;
 				text-decoration: none;
 			}
 
@@ -24,16 +24,16 @@
 				display: block;
 				padding: 0px 20px;
 				line-height: 40px;
-				border-top: 1px solid #EEE;
+				border-top: 1px solid black;
 			}
 
 			.languagepicker li:hover{
-				background-color: black;
+				background-color: whitesmoke;
 			}
 
 			.languagepicker a:first-child li {
 				border: none;
-				background: black !important;
+				background: whitesmoke !important;
 			}
 
 			.languagepicker li img {
