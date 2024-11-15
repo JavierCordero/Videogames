@@ -3,11 +3,9 @@ document.write(
 	"<h2>Menu</h2>",
 	"<ul>",
 	"<li><a href='../indexEN.html'>Main Page</a></li>",
-	"<li><a href='gamesEN.html'>Videogames</a></li>",
-	"<li><a href='xrEN.html'>XR Games</a></li>",
-	"<li><a href='mobilesEN.html'>Mobile Games</a></li>",
-	"<li><a href='ps4EN.html'>PS4 Games</a></li>",
-	"<li><a href='destacadosEN.html'>Highlight games</a></li>",
+	"<li><a href='../whoamiEN.html'>Who am I?</a></li>",
+	"<li><a href='../videogames/videogamesEN.html'>Personal portfolio</a></li>",
+	"<li><a href='../videogames/destacadosEN.html'>Professional portfolio</a></li>",
 	"</ul>",
 	"</nav>"
 );
